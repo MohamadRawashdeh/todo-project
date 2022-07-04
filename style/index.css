@@ -1,0 +1,22 @@
+.logo {
+width: 500px;
+height: 250px;
+}
+.table {
+    margin-top: 100px;
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+.th {
+    padding-right: 100px;
+    border: 1px solid black;
+
+}
+.td {
+    border: 1px solid black;
+}
+
+.th {
+    padding-right: 100px;
+}
